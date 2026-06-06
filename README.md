@@ -6,7 +6,7 @@ Right now I'm looking for **full-time and remote cybersecurity roles** and open 
 
 ![Open to](https://img.shields.io/badge/Open%20to-Security%20roles%20%26%20freelance-2ea44f?style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gentian-hoxha-0685301b5/)
-[![Email](https://img.shields.io/badge/Email-gentian.hoxha@aol.com-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:gentian.hoxha@aol.com)
+[![Email](https://img.shields.io/badge/Email-genti.hox99@gmail.com-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:genti.hox99@gmail.com)
 
 ## Tech
 
@@ -87,7 +87,7 @@ Focused, tested, Dockerized projects across the security domains and adjacent en
 
 ## Reach me
 
-- Email: gentian.hoxha@aol.com
+- Email: genti.hox99@gmail.com
 - LinkedIn: https://www.linkedin.com/in/gentian-hoxha-0685301b5/
 
 ---
